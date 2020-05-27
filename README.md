@@ -1,0 +1,2 @@
+# SampleJavaProject
+just another repository
